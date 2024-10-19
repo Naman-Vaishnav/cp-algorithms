@@ -1,4 +1,4 @@
-//package cp_algorithms.Fenwick_Tree;
+
 //https://cses.fi/problemset/task/1739/
  
 import java.io.DataInputStream;
