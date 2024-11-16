@@ -1,3 +1,5 @@
+package Fenwick_Tree;
+
 //https://www.spoj.com/problems/CTRICK/
 
 import java.io.DataInputStream;

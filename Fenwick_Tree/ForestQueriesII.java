@@ -1,3 +1,5 @@
+package Fenwick_Tree;
+
 
 //https://cses.fi/problemset/task/1739/
  

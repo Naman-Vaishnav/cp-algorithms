@@ -1,4 +1,4 @@
-package cp_algorithms.PrimeNumbers;
+package PrimeNumbers;
 
 import java.util.*;
 
